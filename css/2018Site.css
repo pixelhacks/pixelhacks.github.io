@@ -66,11 +66,11 @@
 
 /*changes highlight colors to purple */
  ::-moz-selection { /* Code for Firefox */
-     background: rgb(191, 226, 255); /* #fed136; */
+     background: rgb(254, 209, 54); /* #fed136; */
  }
 
  ::selection {
-     background: rgb(191, 226, 255); /* #fed136; */
+     background: rgb(254, 209, 54); /* #fed136; */
  }
 
 body {
