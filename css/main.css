@@ -204,7 +204,7 @@ fieldset[disabled] .btn-primary.active {
 
 .btn-xl {
   font-family: 'DINPro', 'Helvetica', 'sans-serif' ;
-  background-color: rgb(191, 226, 255); /* #fed136; */;
+  background-color: rgb(165, 229, 242); /* #fed136; */;
   color: white;
   text-transform: uppercase;
   font-weight: 700;
