@@ -182,15 +182,15 @@ fieldset[disabled] .btn-primary:active,
 .btn-primary[disabled].active,
 fieldset[disabled] .btn-primary.active {
   background-color: rgb(245, 193, 205); /* #fed136; */;
-  border-color: #fed136;
+  border-color: #f5c1cd;
 }
 .btn-primary .badge {
-  color: #fed136;
+  color: #f5c1cd;
   background-color: white;
 }
 
 #sendButton{
-  background-color:#fed136;
+  background-color:#f5c1cd;
 }
 
 #sendButton:hover,
@@ -198,7 +198,7 @@ fieldset[disabled] .btn-primary.active {
 #sendButton:active,
 #sendButton.active,
 .open .dropdown-toggle.btn-xl{
-  background-color:#fed136;
+  background-color:#f5c1cd;
   opacity:0.9;
 }
 
@@ -248,7 +248,7 @@ fieldset[disabled] .btn-xl:active,
 .btn-xl[disabled].active,
 fieldset[disabled] .btn-xl.active {
   background-color: rgb(245, 193, 205); /* #fed136; */;
-  border-color: #fed136;
+  border-color: #f5c1cd;
 }
 .btn-xl .badge {
   color: #fed136;
@@ -300,10 +300,10 @@ fieldset[disabled] .btn-med:active,
 .btn-med[disabled].active,
 fieldset[disabled] .btn-med.active {
   background-color: rgb(245, 193, 205); /* #fed136; */;
-  border-color: #fed136;
+  border-color: #f5c1cd;
 }
 .btn-med .badge {
-  color: #fed136;
+  color: #f5c1cd;
   background-color: white;
 }
 .navbar-custom {
@@ -327,7 +327,7 @@ fieldset[disabled] .btn-med.active {
 .navbar-custom .navbar-toggle {
   font-family: 'DINPro','Helvetica', 'sans-serif' ;
   background-color: rgb(245, 193, 205); /* #fed136; */;
-  border-color: #fed136;
+  border-color: #f5c1cd;
   text-transform: uppercase;
   color: white;
   font-size: 12px;
