@@ -762,11 +762,11 @@ ul.social-buttons li a:active {
 }
 ::-moz-selection {
   text-shadow: none;
-  background: rgb(165, 229, 242); /* #fed136; */
+  background: rgb(245, 193, 205); /* #fed136; */
 }
 ::selection {
   text-shadow: none;
-  background: rgb(165, 229, 242); /* #fed136; */
+  background: rgb(245, 193, 205); /* #fed136; */
 }
 img::selection {
   background: transparent;
