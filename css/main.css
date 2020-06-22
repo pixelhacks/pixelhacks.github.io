@@ -560,9 +560,8 @@ section h3.section-subheading {
     position:relative;
     top:-25px;
     left:-35px;
-    width:500px;
+    width:150px;
     height:auto;
-    display:block;
     z-index:999;
 }
 .about-img {
