@@ -569,7 +569,9 @@ section h3.section-subheading {
         } 
       
         .thumbnail:hover img { 
-            transform: scale(1.5); 
+            width:260px;
+            height:auto;
+ 
         } 
 .about-img {
   max-width: 100%;
