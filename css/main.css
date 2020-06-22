@@ -555,18 +555,6 @@ section h3.section-subheading {
     margin: 0 0 30px;
   }
 }
-
-.thumbnail { 
-            width: 250px; 
-            height: 340px; 
-            overflow: hidden; 
-            margin: 0 auto; 
-        } 
-      
-        .thumbnail img { 
-            width: 100%; 
-            transition: 0.5s all ease-in-out; 
-        } 
       
         .thumbnail:hover img { 
             position:relative;
