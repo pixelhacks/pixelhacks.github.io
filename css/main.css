@@ -49,6 +49,7 @@
   min-height: 400px;
   width: 100%;
   background: #161415 url(../img/2018-website/header-background-eva.jpg) no-repeat top center;
+  background.opacity:0.7;
   background-color: rgba(20,0,0,0.5); /* tint */
   background-blend-mode: multiply;
   background-size: cover !important;
