@@ -557,12 +557,7 @@ section h3.section-subheading {
 }
 
 .thumbnail:hover {
-    position:relative;
-    top:-25px;
-    left:-35px;
-    width:150px;
-    height:auto;
-    z-index:999;
+    transform: scale(1.2);
 }
 .about-img {
   max-width: 100%;
