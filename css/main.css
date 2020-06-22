@@ -556,7 +556,7 @@ section h3.section-subheading {
   }
 }
       
-        .thumbnail:hover img { 
+        .thumbnail:hover { 
             position:relative;
             width:260px;
             height:auto;
