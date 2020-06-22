@@ -556,13 +556,13 @@ section h3.section-subheading {
   }
 }
       
-        .thumbnail:hover { 
-            position:relative;
-            width:260px;
-            height:auto;
-            display:block;
-            z-index:999;
-        } 
+.thumbnail:hover { 
+   position:relative;
+   width:260px;
+   height:354px;
+   display:block;
+   z-index:999;
+} 
 .about-img {
   max-width: 100%;
 }
