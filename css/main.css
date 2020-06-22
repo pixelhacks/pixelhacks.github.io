@@ -35,7 +35,7 @@
   min-height: 500px;
   width: 100%;
   background: #161415 url(../img/2021-Site/ph123.jpg) no-repeat top center;
-  background-color: rgba(20,0,0,0.5); /* tint */
+  background-color: rgba(50, 145, 167, 0.5); /* tint */
   background-blend-mode: multiply;
   background-size: cover !important;
   -webkit-background-size: cover !important;
