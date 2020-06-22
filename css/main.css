@@ -140,6 +140,13 @@ h6 {
   margin-left: auto;
   margin-right: auto;
 }
+.img-headshot:hover { 
+   position:relative;
+   width:260px;
+   height:354px;
+   display:block;
+   z-index:999;
+} 
 .bg-light-gray {
   background-color: rgb(165, 229, 242); /* #fed136; - was yellow */
 }
@@ -555,14 +562,6 @@ section h3.section-subheading {
     margin: 0 0 30px;
   }
 }
-      
-.thumbnail:hover { 
-   position:relative;
-   width:260px;
-   height:354px;
-   display:block;
-   z-index:999;
-} 
 .about-img {
   max-width: 100%;
 }
