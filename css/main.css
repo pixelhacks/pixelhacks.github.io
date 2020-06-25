@@ -821,3 +821,28 @@ body {
 #logo{
  left: -200px;
 }
+
+li {
+ display: inline-block;
+ list-style-type: none;
+ padding: 3px;
+}
+
+ul {
+  text-align: center;
+  margin-left:auto;
+margin-right:auto;
+}
+
+#reach-out {
+  display: inline-block;
+  text-align: center;
+}
+
+.social-media-icon:hover {
+  transform: scale(1.2);
+}
+
+.social-media-icon {
+  transition: 0.3s;
+}
