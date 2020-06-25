@@ -469,6 +469,7 @@ header .intro-text .header-img {
 }
 section {
   padding: 100px 0;
+  transition: 0.4s;
 }
 section h2.section-heading {
   font-size: 40px;
