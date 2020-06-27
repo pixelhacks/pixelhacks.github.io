@@ -35,7 +35,7 @@
   min-height: 500px;
   width: 100%;
   background: #161415 url(../img/2021-Site/ph123.png) no-repeat top center;
-  background-color: rgba(50, 145, 167, 0.5); /* tint */
+  background-color: rgba(154, 47 , 167, 0.5); /* tint */
   opacity:0.7;
   background-blend-mode: multiply;
   background-size: cover !important;
@@ -213,7 +213,7 @@ fieldset[disabled] .btn-primary.active {
 
 .btn-xl {
   font-family: 'DINPro', 'Helvetica', 'sans-serif' ;
-  background-color: rgb(165, 229, 242); /* #fed136; */;
+  background-color: rgb(251, 251, 251); /* #fed136; */;
   color: black;
   text-transform: uppercase;
   font-weight: 700;
@@ -228,7 +228,7 @@ fieldset[disabled] .btn-primary.active {
 .btn-xl.active,
 .open .dropdown-toggle.btn-xl {
   color: black;
-  background-color: rgb(165, 229, 242); /* #fed136; */
+  background-color: rgb(219 , 187 , 239); /* #fed136; */
 
   /*eases button hover transtion */
   transition: all ease 0.3s;
