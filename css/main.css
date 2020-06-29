@@ -35,7 +35,7 @@
   min-height: 500px;
   width: 100%;
   background: #161415 url(../img/2021-Site/ph123.png) no-repeat top center;
-  background-color: rgba(154, 47 , 167, 0.5); /* tint */
+  background-color: rgba(219, 163, 222, 0.5); /* tint */
   opacity:0.7;
   background-blend-mode: multiply;
   background-size: cover !important;
@@ -62,17 +62,17 @@
 
  /* Animates hovering over buttons */
  .animate-button:hover{
-   background: rgb(154, 47 , 167); /* #fed136; */
+   background: rgb(219, 163, 222); /* #fed136; */
  }
 
 
 /*changes highlight colors to purple */
  ::-moz-selection { /* Code for Firefox */
-     background: rgb(154, 47 , 167); /* #fed136; */
+     background: rgb(219, 163, 222); /* #fed136; */
  }
 
  ::selection {
-     background: rgb(154, 47 , 167); /* #fed136; */
+     background: rgb(219, 163, 222); /* #fed136; */
  }
 
 body {
@@ -148,14 +148,14 @@ h6 {
    z-index:999;
 } 
 .bg-light-gray {
-  background-color: rgb(154, 47 , 167); /* #fed136; - was yellow */
+  background-color: rgb(219, 163, 222); /* #fed136; - was yellow */
 }
 .bg-darkest-gray {
   background-color: #222222;
 }
 .btn-primary {
   color: white;
-  background-color: rgb(154, 47 , 167); /* #fed136; */;
+  background-color: rgb(219, 163, 222); /* #fed136; */;
   border-color: #fed136;
   font-family: 'DINPro', 'Helvetica', sans-serif ;
   text-transform: uppercase;
@@ -167,7 +167,7 @@ h6 {
 .btn-primary.active,
 .open .dropdown-toggle.btn-primary {
   color: white;
-  background-color: rgb(154, 47 , 167); /* #fed136; */;
+  background-color: rgb(219, 163, 222); /* #fed136; */;
   border-color: #fed136;
 }
 .btn-primary:active,
@@ -190,7 +190,7 @@ fieldset[disabled] .btn-primary:active,
 .btn-primary.disabled.active,
 .btn-primary[disabled].active,
 fieldset[disabled] .btn-primary.active {
-  background-color: rgb(154, 47 , 167); /* #fed136; */;
+  background-color: rgb(219, 163, 222); /* #fed136; */;
   border-color: #fed136;
 }
 .btn-primary .badge {
@@ -256,7 +256,7 @@ fieldset[disabled] .btn-xl:active,
 .btn-xl.disabled.active,
 .btn-xl[disabled].active,
 fieldset[disabled] .btn-xl.active {
-  background-color: rgb(154, 47 , 167); /* #fed136; */;
+  background-color: rgb(219, 163, 222); /* #fed136; */;
   border-color: #fed136;
 }
 .btn-xl .badge {
@@ -265,7 +265,7 @@ fieldset[disabled] .btn-xl.active {
 }
 .btn-med {
   font-family: 'DINPro', 'Helvetica', 'sans-serif' ;
-  background-color: rgb(154, 47 , 167); /* #fed136; */;
+  background-color: rgb(219, 163, 222); /* #fed136; */;
   color: white;
   text-transform: uppercase;
   font-weight: 700;
@@ -280,7 +280,7 @@ fieldset[disabled] .btn-xl.active {
 .btn-med.active,
 .open .dropdown-toggle.btn-med {
   color: white;
-  background-color: rgb(154, 47 , 167); /* #fed136; */;
+  background-color: rgb(219, 163, 222); /* #fed136; */;
 
   /*eases button hover transtion */
   transition: all ease 0.3s;
@@ -308,7 +308,7 @@ fieldset[disabled] .btn-med:active,
 .btn-med.disabled.active,
 .btn-med[disabled].active,
 fieldset[disabled] .btn-med.active {
-  background-color: rgb(154, 47 , 167); /* #fed136; */;
+  background-color: rgb(219, 163, 222); /* #fed136; */;
   border-color: #fed136;
 }
 .btn-med .badge {
@@ -335,7 +335,7 @@ fieldset[disabled] .btn-med.active {
 }
 .navbar-custom .navbar-toggle {
   font-family: 'DINPro','Helvetica', 'sans-serif' ;
-  background-color: rgb(154, 47 , 167); /* #fed136; */;
+  background-color: rgb(219, 163, 222); /* #fed136; */;
   border-color: #fed136;
   text-transform: uppercase;
   color: white;
@@ -343,7 +343,7 @@ fieldset[disabled] .btn-med.active {
 }
 .navbar-custom .navbar-toggle:hover,
 .navbar-custom .navbar-toggle:focus {
-  background-color: rgb(154, 47 , 167); /* #fed136; */;
+  background-color: rgb(219, 163, 222); /* #fed136; */;
 }
 .navbar-custom .nav li a {
   font-family: 'DINPro', 'Helvetica', 'sans-serif' ;
@@ -361,7 +361,7 @@ fieldset[disabled] .btn-med.active {
 .navbar-custom .navbar-nav > .active > a {
   border-radius: 0;
   color: white;
-  background: rgb(154, 47 , 167); /* #fed136; */
+  background: rgb(219, 163, 222); /* #fed136; */
   background-size: 400% 400%;
 }
 
@@ -373,7 +373,7 @@ fieldset[disabled] .btn-med.active {
 .navbar-custom .navbar-nav > .active > a:hover,
 .navbar-custom .navbar-nav > .active > a:focus {
   color: white;
-  background-color: rgb(154, 47 , 167); /* #fed136; */;
+  background-color: rgb(219, 163, 222); /* #fed136; */;
 }
 @media (min-width: 768px) {
   .navbar-custom {
@@ -573,7 +573,7 @@ aside.clients img {
   margin: 50px auto;
 }
 section#contact {
-  background-color: rgb(154, 47 , 167); /* #fed136; */;
+  background-color: rgb(219, 163, 222); /* #fed136; */;
   background-position: center;
   background-repeat: no-repeat;
   padding: 30px 0;
@@ -772,11 +772,11 @@ ul.social-buttons li a:active {
 }
 ::-moz-selection {
   text-shadow: none;
-  background: rgb(154, 47 , 167); /* #fed136; */
+  background: rgb(219, 163, 222); /* #fed136; */
 }
 ::selection {
   text-shadow: none;
-  background: rgb(154, 47 , 167); /* #fed136; */
+  background: rgb(219, 163, 222); /* #fed136; */
 }
 img::selection {
   background: transparent;
@@ -789,7 +789,7 @@ body {
 }
 
 .panel-heading-purple:hover {
-    background: rgb(154, 47 , 167); /* #fed136; */
+    background: rgb(219, 163, 222); /* #fed136; */
     color: white;
     transition: all ease 0.3s;
     -webkit-transition: all ease 0.3s;
@@ -846,3 +846,5 @@ margin-right:auto;
 .social-media-icon {
   transition: 0.3s;
 }
+
+
