@@ -137,15 +137,13 @@ h6 {
 }
 .img-headshot {
   display: block;
+  padding: 20px;
   margin-left: auto;
   margin-right: auto;
+  transition: 0.2s;
 }
 .img-headshot:hover { 
-   position:relative;
-   width:260px;
-   height:354px;
-   display:block;
-   z-index:999;
+   transform: scale(1.1);
 } 
 .bg-light-gray {
   background-color: rgb(219, 163, 222); /* #fed136; - was yellow */
