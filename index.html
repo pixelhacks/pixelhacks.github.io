@@ -534,6 +534,51 @@
 	          <div id="team3">
 	            <div class="row">
 			    
+          <style>
+            .img-headshot {
+              display: block;
+              padding: 20px;
+              margin-left: auto;
+              margin-right: auto;
+              transition: 0.2s;
+              width: 70%;
+            }
+            .img-headshot:hover { 
+               opacity: 0;
+            } 
+            .img__wrap {
+              position: relative;
+            }
+
+            .img__description {
+              position: absolute;
+              top: 0;
+              bottom: 0;
+              left: 0;
+              right: 0;
+              background: clear;
+              color: #fff;
+              visibility: hidden;
+              opacity: 0;
+              text-align: center;
+              width: 70%;
+              margin-top: 15px;
+              line-height: 25px;
+              top: 50%;
+              left: 50%;
+              transform: translate(-50%, -50%);
+              transition: opacity .2s, visibility .2s;
+            }
+
+            .img__wrap:hover .img__img {
+              opacity: 0;
+            }
+
+            .img__wrap:hover .img__description {
+              visibility: visible;
+              opacity: 1;
+            }
+          </style>
 		<div class="col-sm-4">
                   <figure>
                     <div class="img__wrap">
