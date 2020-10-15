@@ -444,7 +444,7 @@ header .intro-text .header-img {
 }
 @media (min-width: 768px) {
   header .intro-text {
-    padding-top: 300px;
+    padding-top: 100px;
     padding-bottom: 200px;
   }
   header .intro-text .intro-lead-in {
@@ -463,9 +463,12 @@ header .intro-text .header-img {
     margin-bottom: 15px;
   }
   header .intro-text .header-img {
-    margin:auto;
+    margin:0px;
     max-width: 50%;
     margin-bottom:10px;
+  }
+  header img {
+    width: 60%;
   }
 }
 section {
