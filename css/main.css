@@ -892,3 +892,26 @@ margin-right:auto;
   visibility: visible;
   opacity: 1;
 }
+
+.sponsors-container {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, 200px);
+  grid-gap: 40px;
+  max-width: 700px;
+  grid-template-rows: auto;
+  justify-content: center;
+  align-items: center;
+  margin: auto;
+}
+
+.sponsors-container img {
+  width: 80%;
+  margin-left: 20px;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+}
+
+.sponsors-container-gold {
+  text-align: center;
+}
